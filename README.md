@@ -350,10 +350,7 @@ footer {
 ```
 
 ## OUTPUT:
-<<<<<<< HEAD
-![alt text](ex101.png)
-![alt text](ex102.png)
-=======
+
 ![ex101](https://github.com/user-attachments/assets/62b7ec68-01e5-4dce-aa83-fa053f6290cf)
 ![ex102](https://github.com/user-attachments/assets/aab6f4db-6a18-4518-af95-5c58eb19ee57)
 
